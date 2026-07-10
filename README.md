@@ -54,4 +54,4 @@ End-to-end pipeline: scraping job postings via RemoteOK's public API, cleaning a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zero-085&show_icons=true&locale=en&layout=compact" alt="Zero-085" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zero-085&show_icons=true&locale=en" alt="Zero-085" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zero-085&" alt="Zero-085" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Zero-085&" alt="Zero-085" /></p>
