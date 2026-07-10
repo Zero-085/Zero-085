@@ -2,8 +2,8 @@
 
 ### Final Year B.Tech CSE (AI & ML) Student • Aspiring Data Analyst • Python | SQL | Power BI
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Zero-085&label=Profile views&color=0e75b6&style=flat" alt="Zero-085" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Real-World+Projects;Always+Learning+Something+New" />
 </p>
 
 - 🔭 Currently building an **end-to-end Data Analyst Job Market pipeline** — scraping via RemoteOK API, cleaning in Pandas, EDA, and a Power BI dashboard
