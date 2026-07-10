@@ -1,47 +1,57 @@
 # Hi 👋, I'm Himanshu Mishra
 
-### Final Year B.Tech CSE (AI & ML) Student • Aspiring Data Analyst • Python • SQL • Power BI
+### Final Year B.Tech CSE (AI & ML) Student • Aspiring Data Analyst • Python | SQL | Power BI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zero-085&label=Profile views&color=0e75b6&style=flat" alt="Zero-085" /> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Zero-085&label=Profile views&color=0e75b6&style=flat" alt="Zero-085" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zero-085" alt="Zero-085" /></a> </p>
+- 🔭 Currently building an **end-to-end Data Analyst Job Market pipeline** — scraping via RemoteOK API, cleaning in Pandas, EDA, and a Power BI dashboard
+- 📊 Aspiring **Data Analyst / Business Analyst**, actively applying for internships
+- 🧠 Comfortable across the full stack of a data project: scraping → cleaning → EDA → visualization → business insight
+- 💬 Ask me about **SQL, Power BI, Python (Pandas/NumPy), Data Analysis, Data Visualization, Multi-Agent AI pipelines**
+- 📫 Reach me at **himishra2903@gmail.com**
+- 📄 [Resume](https://drive.google.com/file/d/1GJUPj0GnrnI5rZ5HKwxvt4xIwz2bFzK3/view?usp=drive_link)
 
-- 🔭 I'm currently working on **Data Analyst Job Market Analysis using Python, SQL & Power BI**
+---
 
-- 🌱 I'm currently learning **Advanced SQL & Excel, Power BI, Statistics, Data Visualization and Machine Learning**
+## 🚀 Projects
 
-- 👯 I'm looking to collaborate on **Open Source Data Analytics and Python Projects**
+### 📈 [InsightPilot AI](https://github.com/Zero-085/insightpilot-ai)
+AI-powered Business Intelligence dashboard that turns raw CSVs into business insight through a multi-agent pipeline (Cleaner → Analyzer → Visualizer → Insight Agent).
+`FastAPI` `Google Gemini` `Google ADK` `MCP` `Plotly` `Pandas`
+Built as capstone for the Kaggle Google 5-Day AI Agents Intensive.
 
-- 🤝 I'm looking for help with **Data Engineering, Analytics, Front-End Projects and Open Source Contributions**
+### 🌱 [EcoMentor AI](https://github.com/Zero-085/ecomentor-ai)
+Client-side carbon footprint tracker with a context-aware AI Sustainability Coach (Gemini 1.5 Flash), IPCC/EPA-backed emission calculations, and a built-in automated test suite.
+`JavaScript` `HTML/CSS` `Gemini API`
+Built for the Virtual PromptWars Challenge.
 
-- 💬 Ask me about **Java, Python, SQL, Power BI, Data Analysis, Pandas, NumPy, Machine Learning Basics**
+### 🎬 [Netflix Data Analysis](https://github.com/Zero-085/netflix-data-analysis)
+EDA on Netflix's content catalog — content-type split, top countries, release-year growth trends, rating and genre distribution.
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-- 📫 How to reach me **himishra2903@gmail.com**
+### 📄 [Career Intel](https://github.com/Zero-085/career-intel)
+AI-powered resume-to-job-description fit scorer — deterministic scoring, skill-gap detection, and resume rewriting targeted at the role.
 
-- ⚡ Fun fact **I enjoy project based learning!**
+### 📊 Data Analyst Job Market Analysis *(in progress)*
+End-to-end pipeline: scraping job postings via RemoteOK's public API, cleaning and EDA in two structured notebooks, and a Power BI dashboard on hiring trends.
+`Python` `Pandas` `Power BI` `REST API`
 
-- 👨‍💻 All of my projects are available at **[https://zero-085.github.io/personal-portfolio/](https://zero-085.github.io/personal-portfolio/)**
+---
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1GJUPj0GnrnI5rZ5HKwxvt4xIwz2bFzK3/view?usp=drive_link](https://drive.google.com/file/d/1GJUPj0GnrnI5rZ5HKwxvt4xIwz2bFzK3/view?usp=drive_link)**
+## 🛠 Top Skills
+`Power BI` `SQL` `Python (Pandas, NumPy)` `Data Visualization` `Statistical Analysis` `Excel` `Git` `Java` `C`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Zero-085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Zero-085" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshumishra29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshumishra29" height="30" width="40" /></a>
 <a href="https://kaggle.com/himanshumishra85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himanshumishra85" height="30" width="40" /></a>
-<a href="https://instagram.com/h.mishra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.mishra_" height="30" width="40" /></a>
-<a href="https://youtube.com/userZeroH03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="userZeroH03" height="30" width="40" /></a>
-<a href="https://hackerrank.com/himishra2903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himishra2903" height="30" width="40" /></a>
 <a href="https://leetcode.com/h_mishra03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="h_mishra03" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/himishrn837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himishrn837" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zero-085&show_icons=true&locale=en&layout=compact" alt="Zero-085" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zero-085&show_icons=true&locale=en" alt="Zero-085" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zero-085&" alt="Zero-085" /></p>
-
