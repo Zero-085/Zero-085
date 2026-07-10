@@ -43,15 +43,11 @@ End-to-end pipeline: scraping job postings via RemoteOK's public API, cleaning a
 ## 🛠 Top Skills
 `Power BI` `SQL` `Python (Pandas, NumPy)` `Data Visualization` `Statistical Analysis` `Excel` `Git` `Java` `C`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Zero-085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Zero-085" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himanshumishra29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshumishra29" height="30" width="40" /></a>
-<a href="https://kaggle.com/himanshumishra85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himanshumishra85" height="30" width="40" /></a>
-<a href="https://leetcode.com/h_mishra03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="h_mishra03" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/himishrn837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himishrn837" height="30" width="40" /></a>
-</p>
+## 🌐 Connect with me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zero-085&show_icons=true&locale=en&layout=compact" alt="Zero-085" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zero-085&show_icons=true&locale=en" alt="Zero-085" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=Zero-085&" alt="Zero-085" /></p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zero-085.github.io/personal-portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1GJUPj0GnrnI5rZ5HKwxvt4xIwz2bFzK3/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshumishra29)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zero-085)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/himanshumishra85)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/h_mishra03/)
