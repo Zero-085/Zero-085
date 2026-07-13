@@ -51,3 +51,10 @@ End-to-end pipeline: scraping job postings via RemoteOK's public API, cleaning a
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zero-085)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/himanshumishra85)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/h_mishra03/)
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zero-085&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
